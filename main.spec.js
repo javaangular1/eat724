@@ -8,6 +8,10 @@
     it('should commit to github', function() {
         
     });
+
+    fit('should add new files to github...', () => {
+        
+    });
         
      
  });
